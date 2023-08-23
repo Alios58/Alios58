@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alios58
-- 👀 I’m interested in ...Mountain Biling, stamp collecting and arm chair sports
+- 👀 I’m interested in ...Mountain Biking, stamp collecting and arm chair sports
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Azure Arc and patch management
 - 📫 How to reach me ...with very long arms...!
